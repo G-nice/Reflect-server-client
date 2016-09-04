@@ -17,8 +17,8 @@ The server run on a IP address and port whitch given by the user setting the arg
 * `./reflect_server <IP> <port>`
 * `./reflect_client <IP> <port>`
 ```bash
-	./reflect_server 172.0.0.1 8888
-	./reflect_client 172.0.0.1 8888
+	./reflect_server 127.0.0.1 8888
+	./reflect_client 127.0.0.1 8888
 ```
 
 
@@ -43,6 +43,6 @@ The server run on a IP address and port whitch given by the user setting the arg
 * `./reflect_server <IP> <port>`
 * `./reflect_client <IP> <port>`
 ```bash
-	./reflect_server 172.0.0.1 8888
-	./reflect_client 172.0.0.1 8888
+	./reflect_server 127.0.0.1 8888
+	./reflect_client 127.0.0.1 8888
 ```
